@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Ekberiyye",
+    "slug": "ekberiyye-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.ekberiyye.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.ekberiyye.app",
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "19005247-ea05-42f8-bf8a-30f13888eafb"
+      }
+    },
+    "owner": "amaranus"
+  }
+}
